@@ -1,7 +1,7 @@
-title            : Template R DataCamp Course
-author_field     : ncarchedi
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-author_bio       : ncarchedi is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
+title            : R for the Intimidated
+author_field     : Annika Salzberg
+description      : This course will introduce you to the very basics of R from running simple functions to manipulating datasets and creating graphs. This course is designed for people with very little or no programming experience at all.
+author_bio       : Annika is...
 university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+difficulty_level : 1
+time_needed      : 2 hour
