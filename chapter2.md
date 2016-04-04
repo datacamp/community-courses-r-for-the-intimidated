@@ -5,55 +5,55 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Types of Data and Basic Functions 
+## Types of data and basic functions 
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903479
+//player.vimeo.com/video/160903479
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Naming Objects
+## Naming objects
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903441
+//player.vimeo.com/video/160903441
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Vectors - Part 1
+## Vectors - part 1
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903459
+//player.vimeo.com/video/160903459
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Vectors - Part 2
+## Vectors - part 2
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903480
+//player.vimeo.com/video/160903480
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Matrices - Part 1
+## Matrices - part 1
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903482
+//player.vimeo.com/video/160903482
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Matrices - Part 2
+## Matrices - part 2
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903473
+//player.vimeo.com/video/160903473
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Lists & Combining Vectors
+## Lists & combining vectors
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903474
+//player.vimeo.com/video/160903474
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Subsetting Dataframes  
+## Subsetting dataframes  
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903439
+//player.vimeo.com/video/160903439
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## More Dataframes!
+## More dataframes!
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903449
+//player.vimeo.com/video/160903449

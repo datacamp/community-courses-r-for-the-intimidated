@@ -5,31 +5,31 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## ddply: Part One
+## ddply: Part one
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903462
+//player.vimeo.com/video/160903462
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## ddply: Part Two
+## ddply: Part two
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903450
+//player.vimeo.com/video/160903450
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## ddplr: Part Three
+## ddplr: Part three
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903485
+//player.vimeo.com/video/160903485
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## melt: Part One
+## melt: Part one
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903448
+//player.vimeo.com/video/160903448
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## melt: Part Two 
+## melt: Part two 
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903461
+//player.vimeo.com/video/160903461

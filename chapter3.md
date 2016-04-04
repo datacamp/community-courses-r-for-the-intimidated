@@ -8,22 +8,22 @@ attachments :
 ## Packages
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903466
+//player.vimeo.com/video/160903466
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Interlude: Download!
+## Interlude: download!
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903483
+//player.vimeo.com/video/160903483
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Importing Data
+## Importing data
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903440
+//player.vimeo.com/video/160903440
 
 --- type:VideoExercise lang:r xp:50 skills:1
-## Missing Values - scrub & replace
+## Missing values - scrub & replace
 
 *** =video_link
-//https://vimeo.com/album/3876173/video/160903447
+//player.vimeo.com/video/160903447
