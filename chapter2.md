@@ -28,20 +28,32 @@ attachments :
 *** =video_link
 //https://vimeo.com/album/3876173/video/160903480
 
---- type:VideoExerice lang:r xp:50 skills:1
+--- type:VideoExercise lang:r xp:50 skills:1
 ## Matrices - Part 1
 
 *** =video_link
 //https://vimeo.com/album/3876173/video/160903482
 
---- type:VideoExerice lang:r xp:50 skills:1
+--- type:VideoExercise lang:r xp:50 skills:1
 ## Matrices - Part 2
 
 *** =video_link
 //https://vimeo.com/album/3876173/video/160903473
 
---- type:VideoExerice lang:r xp:50 skills:1
+--- type:VideoExercise lang:r xp:50 skills:1
 ## Lists & Combining Vectors
 
 *** =video_link
 //https://vimeo.com/album/3876173/video/160903474
+
+--- type:VideoExercise lang:r xp:50 skills:1
+## Subsetting Dataframes  
+
+*** =video_link
+//https://vimeo.com/album/3876173/video/160903439
+
+--- type:VideoExercise lang:r xp:50 skills:1
+## More Dataframes!
+
+*** =video_link
+//https://vimeo.com/album/3876173/video/160903449
