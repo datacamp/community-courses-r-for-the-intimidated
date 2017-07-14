@@ -1,7 +1,7 @@
 title            : R for the Intimidated
 author_field     : Annika Salzberg
 description      : This course will introduce you to the very basics of R from running simple functions to manipulating datasets and creating graphs. This course is designed for people with very little or no programming experience at all.
-author_bio       : Annika Salzberg is a student at Haverford College majoring in Biology, with a strong interest in computer science. She taught a class on R in high school, and subsequently created a video course targeted towards students with minimal to no prior programming experience. She strongly believes that anyone can learn programming, and everyone should give it a try! 
+author_bio       : Annika Salzberg is a student at Cornell University majoring in Entomology, with a strong interest in computer science. She taught a class on R in high school, and subsequently created a video course targeted towards students with minimal to no prior programming experience. She strongly believes that anyone can learn programming, and everyone should give it a try! 
 university       : DataCamp
 difficulty_level : 1
 time_needed      : 2 hours
